@@ -1,0 +1,325 @@
+Task B3: Temperatures in All Countries between 30.0 and 30.5
+Temperature, Year, Month, Country, Country_Code
+30.00 (C), 86.00 (F), 2012, Mar, South Sudan, SSD
+30.00 (C), 86.01 (F), 2010, Aug, Tunisia, TUN
+30.01 (C), 86.01 (F), 2009, Feb, Burkina Faso, BFA
+30.01 (C), 86.02 (F), 2014, Oct, United Arab Emirates, ARE
+30.02 (C), 86.03 (F), 2005, Apr, Togo, TGO
+30.02 (C), 86.03 (F), 2004, May, India, IND
+30.02 (C), 86.03 (F), 2010, May, South Sudan, SSD
+30.02 (C), 86.04 (F), 2009, Jun, Burkina Faso, BFA
+30.03 (C), 86.05 (F), 2016, May, Thailand, THA
+30.03 (C), 86.05 (F), 2001, Oct, Mali, MLI
+30.03 (C), 86.05 (F), 2000, Apr, South Sudan, SSD
+30.03 (C), 86.06 (F), 2013, Apr, Nigeria, NGA
+30.03 (C), 86.06 (F), 2001, Aug, Syria, SYR
+30.03 (C), 86.06 (F), 2015, Mar, Togo, TGO
+30.04 (C), 86.07 (F), 2009, Mar, Nigeria, NGA
+30.04 (C), 86.07 (F), 2006, Jul, Libya, LBY
+30.04 (C), 86.08 (F), 2004, Apr, South Sudan, SSD
+30.05 (C), 86.08 (F), 2006, Mar, Togo, TGO
+30.05 (C), 86.09 (F), 2008, Sep, Algeria, DZA
+30.05 (C), 86.09 (F), 2009, Feb, Benin, BEN
+30.05 (C), 86.10 (F), 2014, Mar, Nigeria, NGA
+30.06 (C), 86.10 (F), 2000, Jun, Senegal, SEN
+30.06 (C), 86.10 (F), 2007, May, Eritrea, ERI
+30.06 (C), 86.10 (F), 2009, Jun, Libya, LBY
+30.06 (C), 86.11 (F), 2014, Jul, Senegal, SEN
+30.06 (C), 86.11 (F), 2015, Apr, Mauritania, MRT
+30.06 (C), 86.11 (F), 2016, Apr, Togo, TGO
+30.06 (C), 86.11 (F), 2004, May, Guinea-Bissau, GNB
+30.06 (C), 86.11 (F), 2008, Mar, Senegal, SEN
+30.06 (C), 86.12 (F), 2011, Apr, Guinea-Bissau, GNB
+30.07 (C), 86.12 (F), 2005, Mar, Senegal, SEN
+30.07 (C), 86.13 (F), 2003, Oct, Mauritania, MRT
+30.07 (C), 86.13 (F), 2001, Oct, Bahrain, BHR
+30.07 (C), 86.13 (F), 2014, Oct, Senegal, SEN
+30.07 (C), 86.13 (F), 2002, Jun, Oman, OMN
+30.07 (C), 86.13 (F), 2008, May, Djibouti, DJI
+30.08 (C), 86.14 (F), 2012, Aug, Syria, SYR
+30.08 (C), 86.14 (F), 2012, Sep, Sudan, SDN
+30.08 (C), 86.14 (F), 2005, Apr, Guinea-Bissau, GNB
+30.08 (C), 86.14 (F), 2008, Jul, Syria, SYR
+30.08 (C), 86.15 (F), 2009, May, Eritrea, ERI
+30.08 (C), 86.15 (F), 2005, Jun, Eritrea, ERI
+30.08 (C), 86.15 (F), 2012, Mar, Togo, TGO
+30.08 (C), 86.15 (F), 2016, Apr, Mauritania, MRT
+30.08 (C), 86.15 (F), 2008, May, Saudi Arabia, SAU
+30.09 (C), 86.15 (F), 2012, Apr, South Sudan, SSD
+30.09 (C), 86.16 (F), 2008, Oct, Qatar, QAT
+30.09 (C), 86.16 (F), 2011, May, Djibouti, DJI
+30.09 (C), 86.16 (F), 2012, Jul, Turkmenistan, TKM
+30.09 (C), 86.16 (F), 2013, Aug, Libya, LBY
+30.10 (C), 86.17 (F), 2007, Aug, Niger, NER
+30.10 (C), 86.17 (F), 2015, May, Eritrea, ERI
+30.10 (C), 86.18 (F), 2001, Aug, Sudan, SDN
+30.10 (C), 86.18 (F), 2011, Apr, Gambia,  GMB
+30.10 (C), 86.18 (F), 2006, Apr, Mauritania, MRT
+30.10 (C), 86.18 (F), 2011, Mar, Mali, MLI
+30.10 (C), 86.18 (F), 2010, Apr, Djibouti, DJI
+30.10 (C), 86.18 (F), 2004, Jul, Syria, SYR
+30.10 (C), 86.18 (F), 2000, Jul, Turkmenistan, TKM
+30.10 (C), 86.19 (F), 2000, Apr, Sudan, SDN
+30.10 (C), 86.19 (F), 2016, Jun, Eritrea, ERI
+30.11 (C), 86.19 (F), 2008, Apr, Guinea-Bissau, GNB
+30.11 (C), 86.19 (F), 2011, Sep, Sudan, SDN
+30.11 (C), 86.20 (F), 2015, Apr, Ghana, GHA
+30.11 (C), 86.20 (F), 2016, Feb, Ghana, GHA
+30.11 (C), 86.20 (F), 2010, Apr, Cambodia, KHM
+30.11 (C), 86.20 (F), 2011, Jun, Burkina Faso, BFA
+30.11 (C), 86.20 (F), 2003, Jul, Sudan, SDN
+30.11 (C), 86.21 (F), 2009, Oct, Sudan, SDN
+30.12 (C), 86.21 (F), 2001, Mar, Ghana, GHA
+30.12 (C), 86.21 (F), 2011, Sep, Iraq, IRQ
+30.12 (C), 86.21 (F), 2008, Aug, Tunisia, TUN
+30.12 (C), 86.22 (F), 2013, Oct, Mauritania, MRT
+30.12 (C), 86.22 (F), 2010, Jul, Iran, IRN
+30.13 (C), 86.23 (F), 2012, Mar, Ghana, GHA
+30.13 (C), 86.23 (F), 2003, Aug, Sudan, SDN
+30.13 (C), 86.23 (F), 2013, Feb, South Sudan, SSD
+30.13 (C), 86.23 (F), 2002, Jul, Syria, SYR
+30.13 (C), 86.23 (F), 2001, Sep, Libya, LBY
+30.13 (C), 86.23 (F), 2012, Apr, Gambia,  GMB
+30.13 (C), 86.24 (F), 2005, Jul, Syria, SYR
+30.13 (C), 86.24 (F), 2010, Oct, Niger, NER
+30.13 (C), 86.24 (F), 2015, Mar, Ghana, GHA
+30.14 (C), 86.25 (F), 2003, Mar, Ghana, GHA
+30.14 (C), 86.26 (F), 2013, Jul, Iran, IRN
+30.15 (C), 86.27 (F), 2014, Oct, Mali, MLI
+30.15 (C), 86.27 (F), 2001, Sep, Djibouti, DJI
+30.15 (C), 86.28 (F), 2015, Jul, Iran, IRN
+30.16 (C), 86.29 (F), 2013, Jun, Gambia,  GMB
+30.16 (C), 86.29 (F), 2001, Apr, Mauritania, MRT
+30.16 (C), 86.29 (F), 2003, Feb, Ghana, GHA
+30.16 (C), 86.29 (F), 2013, Apr, Benin, BEN
+30.16 (C), 86.29 (F), 2009, Oct, Mali, MLI
+30.16 (C), 86.29 (F), 2003, May, Guinea-Bissau, GNB
+30.16 (C), 86.29 (F), 2003, Apr, Cambodia, KHM
+30.16 (C), 86.29 (F), 2001, Jul, Syria, SYR
+30.16 (C), 86.30 (F), 2003, Feb, Benin, BEN
+30.16 (C), 86.30 (F), 2003, Jun, India, IND
+30.17 (C), 86.30 (F), 2003, Jun, Libya, LBY
+30.17 (C), 86.30 (F), 2013, Jun, Oman, OMN
+30.17 (C), 86.30 (F), 2011, Sep, Algeria, DZA
+30.17 (C), 86.30 (F), 2013, May, Oman, OMN
+30.17 (C), 86.30 (F), 2001, Oct, Qatar, QAT
+30.17 (C), 86.30 (F), 2015, Jul, Syria, SYR
+30.17 (C), 86.31 (F), 2007, Feb, South Sudan, SSD
+30.17 (C), 86.31 (F), 2016, Jul, Syria, SYR
+30.17 (C), 86.31 (F), 2002, Jul, Eritrea, ERI
+30.17 (C), 86.31 (F), 2004, Apr, Cambodia, KHM
+30.17 (C), 86.31 (F), 2003, Mar, Senegal, SEN
+30.17 (C), 86.31 (F), 2002, Feb, South Sudan, SSD
+30.17 (C), 86.31 (F), 2006, Sep, Djibouti, DJI
+30.17 (C), 86.31 (F), 2016, Sep, Algeria, DZA
+30.18 (C), 86.32 (F), 2004, Apr, Sudan, SDN
+30.18 (C), 86.32 (F), 2013, Jul, Eritrea, ERI
+30.18 (C), 86.33 (F), 2010, Aug, Jordan, JOR
+30.18 (C), 86.33 (F), 2003, May, Oman, OMN
+30.19 (C), 86.33 (F), 2016, May, Cambodia, KHM
+30.19 (C), 86.34 (F), 2006, Apr, Nigeria, NGA
+30.19 (C), 86.34 (F), 2003, Apr, Benin, BEN
+30.19 (C), 86.34 (F), 2006, May, Gambia,  GMB
+30.19 (C), 86.34 (F), 2001, Oct, Mauritania, MRT
+30.19 (C), 86.35 (F), 2003, Jul, Egypt, EGY
+30.19 (C), 86.35 (F), 2014, Jul, Iran, IRN
+30.20 (C), 86.36 (F), 2016, Apr, Maldives, MDV
+30.20 (C), 86.36 (F), 2000, Sep, Djibouti, DJI
+30.20 (C), 86.36 (F), 2008, Jul, Turkmenistan, TKM
+30.20 (C), 86.36 (F), 2012, Sep, Iraq, IRQ
+30.20 (C), 86.36 (F), 2009, Aug, Libya, LBY
+30.20 (C), 86.36 (F), 2004, Jun, Oman, OMN
+30.21 (C), 86.37 (F), 2009, Feb, Ghana, GHA
+30.21 (C), 86.37 (F), 2002, May, Oman, OMN
+30.21 (C), 86.38 (F), 2002, Jun, Burkina Faso, BFA
+30.21 (C), 86.38 (F), 2003, May, Eritrea, ERI
+30.21 (C), 86.39 (F), 2006, Apr, Ghana, GHA
+30.21 (C), 86.39 (F), 2016, Jun, Pakistan, PAK
+30.22 (C), 86.39 (F), 2010, Apr, Thailand, THA
+30.22 (C), 86.39 (F), 2003, May, India, IND
+30.22 (C), 86.39 (F), 2009, Oct, Mauritania, MRT
+30.22 (C), 86.39 (F), 2001, Mar, Togo, TGO
+30.22 (C), 86.40 (F), 2016, Oct, Senegal, SEN
+30.23 (C), 86.41 (F), 2013, Aug, Mali, MLI
+30.23 (C), 86.41 (F), 2007, Aug, Tunisia, TUN
+30.23 (C), 86.41 (F), 2006, Jun, Eritrea, ERI
+30.23 (C), 86.41 (F), 2006, Apr, Togo, TGO
+30.23 (C), 86.41 (F), 2015, May, Nigeria, NGA
+30.23 (C), 86.41 (F), 2012, Jun, Eritrea, ERI
+30.23 (C), 86.41 (F), 2013, Jun, Burkina Faso, BFA
+30.23 (C), 86.42 (F), 2005, Apr, Gambia,  GMB
+30.23 (C), 86.42 (F), 2004, Sep, Sudan, SDN
+30.23 (C), 86.42 (F), 2007, May, India, IND
+30.23 (C), 86.42 (F), 2006, May, Djibouti, DJI
+30.24 (C), 86.43 (F), 2013, Feb, Ghana, GHA
+30.24 (C), 86.43 (F), 2016, May, Gambia,  GMB
+30.24 (C), 86.43 (F), 2009, Mar, Ghana, GHA
+30.24 (C), 86.43 (F), 2002, Apr, Senegal, SEN
+30.24 (C), 86.43 (F), 2015, Sep, Egypt, EGY
+30.24 (C), 86.44 (F), 2013, Sep, Sudan, SDN
+30.24 (C), 86.44 (F), 2004, Sep, Djibouti, DJI
+30.24 (C), 86.44 (F), 2010, Apr, Togo, TGO
+30.25 (C), 86.45 (F), 2014, Jun, Gambia,  GMB
+30.25 (C), 86.45 (F), 2011, Feb, South Sudan, SSD
+30.25 (C), 86.45 (F), 2012, May, Oman, OMN
+30.25 (C), 86.46 (F), 2007, May, Guinea-Bissau, GNB
+30.25 (C), 86.46 (F), 2011, Jul, Eritrea, ERI
+30.26 (C), 86.46 (F), 2003, Sep, Sudan, SDN
+30.26 (C), 86.46 (F), 2012, Oct, Mali, MLI
+30.26 (C), 86.46 (F), 2008, Sep, Sudan, SDN
+30.26 (C), 86.47 (F), 2005, Jun, Gambia,  GMB
+30.26 (C), 86.48 (F), 2000, May, Saudi Arabia, SAU
+30.27 (C), 86.48 (F), 2014, Aug, Syria, SYR
+30.27 (C), 86.48 (F), 2011, Aug, Libya, LBY
+30.27 (C), 86.48 (F), 2016, Apr, Guinea-Bissau, GNB
+30.27 (C), 86.48 (F), 2012, Oct, Mauritania, MRT
+30.27 (C), 86.48 (F), 2000, Mar, Benin, BEN
+30.27 (C), 86.48 (F), 2010, Jun, Gambia,  GMB
+30.27 (C), 86.49 (F), 2001, Sep, Iraq, IRQ
+30.27 (C), 86.49 (F), 2004, Jul, Libya, LBY
+30.27 (C), 86.49 (F), 2010, May, Nigeria, NGA
+30.27 (C), 86.49 (F), 2013, May, Eritrea, ERI
+30.28 (C), 86.50 (F), 2005, Oct, Mali, MLI
+30.28 (C), 86.51 (F), 2013, Mar, Senegal, SEN
+30.28 (C), 86.51 (F), 2002, Sep, Iraq, IRQ
+30.28 (C), 86.51 (F), 2008, Apr, Gambia,  GMB
+30.28 (C), 86.51 (F), 2009, Mar, Togo, TGO
+30.29 (C), 86.51 (F), 2012, Jun, Oman, OMN
+30.29 (C), 86.51 (F), 2007, Oct, Mauritania, MRT
+30.29 (C), 86.52 (F), 2013, Aug, Egypt, EGY
+30.29 (C), 86.52 (F), 2002, Mar, Togo, TGO
+30.29 (C), 86.52 (F), 2002, Jul, Tunisia, TUN
+30.29 (C), 86.52 (F), 2014, May, Saudi Arabia, SAU
+30.29 (C), 86.53 (F), 2008, Aug, Libya, LBY
+30.30 (C), 86.54 (F), 2000, Jun, Eritrea, ERI
+30.30 (C), 86.54 (F), 2009, Jun, India, IND
+30.30 (C), 86.55 (F), 2010, Mar, Guinea-Bissau, GNB
+30.31 (C), 86.55 (F), 2014, Jun, Pakistan, PAK
+30.31 (C), 86.55 (F), 2008, Jul, Chad, TCD
+30.31 (C), 86.56 (F), 2015, Oct, Sudan, SDN
+30.31 (C), 86.56 (F), 2010, May, Eritrea, ERI
+30.31 (C), 86.56 (F), 2009, May, Saudi Arabia, SAU
+30.31 (C), 86.56 (F), 2000, Mar, Burkina Faso, BFA
+30.32 (C), 86.57 (F), 2007, May, South Sudan, SSD
+30.32 (C), 86.57 (F), 2003, Oct, Bahrain, BHR
+30.32 (C), 86.58 (F), 2016, Apr, Gambia,  GMB
+30.32 (C), 86.58 (F), 2002, Mar, Ghana, GHA
+30.33 (C), 86.59 (F), 2015, Oct, Niger, NER
+30.33 (C), 86.59 (F), 2010, Apr, Ghana, GHA
+30.33 (C), 86.59 (F), 2002, Apr, Sudan, SDN
+30.33 (C), 86.59 (F), 2011, Mar, Togo, TGO
+30.33 (C), 86.60 (F), 2003, Mar, Togo, TGO
+30.33 (C), 86.60 (F), 2015, Feb, South Sudan, SSD
+30.34 (C), 86.60 (F), 2016, Aug, Libya, LBY
+30.34 (C), 86.61 (F), 2012, Feb, South Sudan, SSD
+30.34 (C), 86.61 (F), 2006, Jun, Burkina Faso, BFA
+30.34 (C), 86.61 (F), 2011, Jul, Syria, SYR
+30.34 (C), 86.61 (F), 2015, May, Guinea-Bissau, GNB
+30.34 (C), 86.61 (F), 2006, Oct, Mali, MLI
+30.34 (C), 86.62 (F), 2001, May, Saudi Arabia, SAU
+30.34 (C), 86.62 (F), 2006, May, Oman, OMN
+30.34 (C), 86.62 (F), 2001, Mar, South Sudan, SSD
+30.34 (C), 86.62 (F), 2003, Sep, Mali, MLI
+30.35 (C), 86.62 (F), 2001, May, India, IND
+30.35 (C), 86.62 (F), 2004, Mar, South Sudan, SSD
+30.35 (C), 86.63 (F), 2000, Jun, Oman, OMN
+30.35 (C), 86.63 (F), 2000, Jul, Libya, LBY
+30.35 (C), 86.63 (F), 2007, Oct, Bahrain, BHR
+30.35 (C), 86.63 (F), 2010, Mar, Cote d'Ivoire, CIV
+30.35 (C), 86.63 (F), 2014, Jun, Burkina Faso, BFA
+30.36 (C), 86.64 (F), 2006, May, India, IND
+30.36 (C), 86.64 (F), 2001, Jul, Egypt, EGY
+30.36 (C), 86.65 (F), 2007, Sep, Djibouti, DJI
+30.36 (C), 86.65 (F), 2012, Jun, India, IND
+30.36 (C), 86.65 (F), 2014, Sep, Iraq, IRQ
+30.36 (C), 86.65 (F), 2010, Feb, Togo, TGO
+30.37 (C), 86.66 (F), 2010, Mar, Gambia,  GMB
+30.37 (C), 86.66 (F), 2007, Mar, Togo, TGO
+30.37 (C), 86.66 (F), 2007, Jul, Libya, LBY
+30.37 (C), 86.66 (F), 2007, Mar, Ghana, GHA
+30.37 (C), 86.66 (F), 2002, May, Gambia,  GMB
+30.37 (C), 86.66 (F), 2010, Jul, Chad, TCD
+30.37 (C), 86.67 (F), 2000, Sep, Sudan, SDN
+30.38 (C), 86.68 (F), 2004, Apr, Benin, BEN
+30.38 (C), 86.68 (F), 2014, Sep, Djibouti, DJI
+30.38 (C), 86.69 (F), 2009, May, Gambia,  GMB
+30.38 (C), 86.69 (F), 2003, Oct, Qatar, QAT
+30.38 (C), 86.69 (F), 2005, Feb, Burkina Faso, BFA
+30.38 (C), 86.69 (F), 2003, Aug, Mali, MLI
+30.39 (C), 86.69 (F), 2010, Mar, Nigeria, NGA
+30.39 (C), 86.69 (F), 2012, Aug, Niger, NER
+30.39 (C), 86.70 (F), 2006, Jul, Tunisia, TUN
+30.39 (C), 86.70 (F), 2011, May, Oman, OMN
+30.39 (C), 86.71 (F), 2014, Jun, Libya, LBY
+30.39 (C), 86.71 (F), 2012, Sep, Niger, NER
+30.39 (C), 86.71 (F), 2005, May, Guinea-Bissau, GNB
+30.40 (C), 86.71 (F), 2007, Apr, Sudan, SDN
+30.40 (C), 86.71 (F), 2009, Jun, Egypt, EGY
+30.40 (C), 86.72 (F), 2000, May, Oman, OMN
+30.40 (C), 86.72 (F), 2009, Apr, Benin, BEN
+30.40 (C), 86.72 (F), 2005, Jul, Chad, TCD
+30.40 (C), 86.73 (F), 2013, Jun, Eritrea, ERI
+30.40 (C), 86.73 (F), 2013, May, Guinea-Bissau, GNB
+30.40 (C), 86.73 (F), 2008, Jun, Oman, OMN
+30.40 (C), 86.73 (F), 2013, Apr, Senegal, SEN
+30.40 (C), 86.73 (F), 2007, Oct, Qatar, QAT
+30.41 (C), 86.73 (F), 2004, Jul, Chad, TCD
+30.41 (C), 86.74 (F), 2011, Jul, Tunisia, TUN
+30.41 (C), 86.74 (F), 2011, May, Saudi Arabia, SAU
+30.41 (C), 86.74 (F), 2009, Feb, South Sudan, SSD
+30.41 (C), 86.74 (F), 2016, Apr, Ghana, GHA
+30.42 (C), 86.75 (F), 2006, Aug, Syria, SYR
+30.42 (C), 86.75 (F), 2005, Feb, Togo, TGO
+30.42 (C), 86.75 (F), 2010, Feb, Benin, BEN
+30.42 (C), 86.76 (F), 2007, Jun, Burkina Faso, BFA
+30.42 (C), 86.76 (F), 2011, Oct, Mauritania, MRT
+30.42 (C), 86.76 (F), 2005, Jun, India, IND
+30.42 (C), 86.76 (F), 2007, Sep, Niger, NER
+30.42 (C), 86.76 (F), 2010, Sep, Mali, MLI
+30.42 (C), 86.76 (F), 2008, Aug, Sudan, SDN
+30.42 (C), 86.76 (F), 2005, Oct, Mauritania, MRT
+30.43 (C), 86.77 (F), 2004, Mar, Burkina Faso, BFA
+30.43 (C), 86.77 (F), 2005, Jul, Turkmenistan, TKM
+30.43 (C), 86.77 (F), 2011, May, India, IND
+30.44 (C), 86.78 (F), 2002, Mar, South Sudan, SSD
+30.44 (C), 86.79 (F), 2010, Jul, Tunisia, TUN
+30.44 (C), 86.79 (F), 2007, Oct, Mali, MLI
+30.44 (C), 86.79 (F), 2012, Apr, Sudan, SDN
+30.44 (C), 86.80 (F), 2006, Aug, Sudan, SDN
+30.44 (C), 86.80 (F), 2002, Oct, Bahrain, BHR
+30.44 (C), 86.80 (F), 2015, May, Djibouti, DJI
+30.44 (C), 86.80 (F), 2014, Oct, Mauritania, MRT
+30.45 (C), 86.81 (F), 2001, Jun, Senegal, SEN
+30.45 (C), 86.81 (F), 2000, Aug, Sudan, SDN
+30.45 (C), 86.81 (F), 2008, Apr, Mauritania, MRT
+30.45 (C), 86.81 (F), 2010, Jul, Syria, SYR
+30.45 (C), 86.81 (F), 2015, Jun, Libya, LBY
+30.45 (C), 86.82 (F), 2010, May, Saudi Arabia, SAU
+30.45 (C), 86.82 (F), 2006, May, Saudi Arabia, SAU
+30.46 (C), 86.83 (F), 2008, Apr, Sudan, SDN
+30.46 (C), 86.83 (F), 2014, Sep, Algeria, DZA
+30.46 (C), 86.83 (F), 2013, Jul, Chad, TCD
+30.46 (C), 86.84 (F), 2003, Jun, Senegal, SEN
+30.47 (C), 86.84 (F), 2014, Oct, Bahrain, BHR
+30.47 (C), 86.84 (F), 2014, Aug, Tunisia, TUN
+30.47 (C), 86.84 (F), 2009, Aug, Egypt, EGY
+30.47 (C), 86.84 (F), 2015, Oct, Mali, MLI
+30.47 (C), 86.85 (F), 2008, Aug, Syria, SYR
+30.47 (C), 86.85 (F), 2016, Jul, Iran, IRN
+30.47 (C), 86.85 (F), 2003, Apr, Nigeria, NGA
+30.47 (C), 86.85 (F), 2005, Sep, Sudan, SDN
+30.48 (C), 86.86 (F), 2009, Sep, Chad, TCD
+30.48 (C), 86.87 (F), 2010, Jul, Turkmenistan, TKM
+30.48 (C), 86.87 (F), 2004, Aug, Libya, LBY
+30.48 (C), 86.87 (F), 2016, Mar, Togo, TGO
+30.48 (C), 86.87 (F), 2013, Mar, Ghana, GHA
+30.48 (C), 86.87 (F), 2009, May, Oman, OMN
+30.48 (C), 86.87 (F), 2010, Oct, Sudan, SDN
+30.49 (C), 86.87 (F), 2001, Apr, Nigeria, NGA
+30.49 (C), 86.87 (F), 2004, Mar, Benin, BEN
+30.49 (C), 86.88 (F), 2011, Jul, Turkmenistan, TKM
+30.49 (C), 86.88 (F), 2011, Apr, Nigeria, NGA
+30.49 (C), 86.88 (F), 2001, Apr, Thailand, THA
+30.50 (C), 86.89 (F), 2002, Jun, Eritrea, ERI
+30.50 (C), 86.90 (F), 2013, May, Kuwait, KWT
+

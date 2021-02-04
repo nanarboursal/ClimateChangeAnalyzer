@@ -1,0 +1,26 @@
+Task B1: Top 10 Lowest Temperatures in All Countries in Jul
+Temperature, Year, Month, Country, Country_Code
+-3.04 (C), 26.53 (F), 2001, Jul, Greenland, GRL
+3.04 (C), 37.48 (F), 2000, Jul, Chile, CHL
+3.82 (C), 38.88 (F), 2001, Jul, New Zealand, NZL
+5.66 (C), 42.19 (F), 2000, Jul, Argentina, ARG
+6.18 (C), 43.13 (F), 2011, Jul, Lesotho, LSO
+7.46 (C), 45.42 (F), 2015, Jul, Iceland, ISL
+8.81 (C), 47.86 (F), 2007, Jul, Uruguay, URY
+8.83 (C), 47.89 (F), 2000, Jul, Liechtenstein, LIE
+9.51 (C), 49.11 (F), 2015, Jul, Faroe Islands, FRO
+10.53 (C), 50.95 (F), 2002, Jul, South Africa, ZAF
+
+Task B1: Top 10 Highest Temperatures in All Countries in Jan
+Temperature, Year, Month, Country, Country_Code
+28.25 (C), 82.86 (F), 2014, Jan, Benin, BEN
+28.33 (C), 83.00 (F), 2000, Jan, Togo, TGO
+28.35 (C), 83.03 (F), 2016, Jan, Palau, PLW
+28.51 (C), 83.32 (F), 2016, Jan, Marshall Islands, MHL
+28.71 (C), 83.68 (F), 2016, Jan, Paraguay, PRY
+28.80 (C), 83.84 (F), 2016, Jan, Maldives, MDV
+29.08 (C), 84.35 (F), 2008, Jan, South Sudan, SSD
+29.16 (C), 84.48 (F), 2002, Jan, Tuvalu, TUV
+29.38 (C), 84.89 (F), 2009, Jan, Samoa, WSM
+29.48 (C), 85.06 (F), 2013, Jan, Australia, AUS
+

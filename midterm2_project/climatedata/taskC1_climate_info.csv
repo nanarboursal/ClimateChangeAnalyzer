@@ -1,0 +1,169 @@
+Task C1: Temperature Deltas in All Countries in Jun between 2007 and 2001
+Temperature, Year, Month, Country, Country_Code
+3.34 (C), 38.02 (F), 6, Jun, Croatia, HRV
+3.56 (C), 38.40 (F), 6, Jun, Bosnia and Herzegovina, BIH
+3.57 (C), 38.42 (F), 6, Jun, Slovakia, SVK
+3.60 (C), 38.48 (F), 6, Jun, Poland, POL
+3.70 (C), 38.67 (F), 6, Jun, Hungary, HUN
+3.79 (C), 38.82 (F), 6, Jun, Republic of Serbia, SRB
+3.89 (C), 39.00 (F), 6, Jun, Czech Republic, CZE
+3.89 (C), 39.01 (F), 6, Jun, Romania, ROU
+3.92 (C), 39.06 (F), 6, Jun, Ukraine, UKR
+4.43 (C), 39.98 (F), 6, Jun, Moldova, MDA
+
+Task C1: Temperature Deltas in All Countries in Jan between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.41 (C), 38.13 (F), 16, Jan, Portugal, PRT
+3.54 (C), 38.37 (F), 16, Jan, Spain, ESP
+3.93 (C), 39.07 (F), 16, Jan, Lithuania, LTU
+4.25 (C), 39.65 (F), 16, Jan, Greenland, GRL
+4.64 (C), 40.35 (F), 16, Jan, Canada, CAN
+4.70 (C), 40.47 (F), 16, Jan, Latvia, LVA
+5.02 (C), 41.04 (F), 16, Jan, Norway, NOR
+5.63 (C), 42.13 (F), 16, Jan, Sweden, SWE
+5.99 (C), 42.78 (F), 16, Jan, Estonia, EST
+6.90 (C), 44.42 (F), 16, Jan, Finland, FIN
+
+Task C1: Temperature Deltas in All Countries in Feb between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+4.02 (C), 39.24 (F), 16, Feb, Republic of Serbia, SRB
+4.06 (C), 39.31 (F), 16, Feb, Republic of Montenegro, MNE
+4.16 (C), 39.48 (F), 16, Feb, Syria, SYR
+4.18 (C), 39.52 (F), 16, Feb, Albania, ALB
+4.28 (C), 39.70 (F), 16, Feb, Romania, ROU
+4.30 (C), 39.75 (F), 16, Feb, Georgia, GEO
+4.43 (C), 39.97 (F), 16, Feb, Macedonia, MKD
+4.50 (C), 40.10 (F), 16, Feb, Bulgaria, BGR
+4.64 (C), 40.36 (F), 16, Feb, Cyprus, CYP
+5.39 (C), 41.71 (F), 16, Feb, Turkey, TUR
+
+Task C1: Temperature Deltas in All Countries in Mar between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.46 (C), 38.23 (F), 16, Mar, Uzbekistan, UZB
+3.51 (C), 38.31 (F), 16, Mar, Eritrea, ERI
+3.56 (C), 38.40 (F), 16, Mar, Cyprus, CYP
+3.57 (C), 38.43 (F), 16, Mar, Niger, NER
+3.66 (C), 38.59 (F), 16, Mar, Turkey, TUR
+3.69 (C), 38.64 (F), 16, Mar, Greenland, GRL
+3.69 (C), 38.65 (F), 16, Mar, Chad, TCD
+3.94 (C), 39.09 (F), 16, Mar, Georgia, GEO
+4.10 (C), 39.38 (F), 16, Mar, Kazakhstan, KAZ
+4.20 (C), 39.57 (F), 16, Mar, Sudan, SDN
+
+Task C1: Temperature Deltas in All Countries in Apr between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+2.54 (C), 36.56 (F), 16, Apr, Czech Republic, CZE
+2.56 (C), 36.61 (F), 16, Apr, Swaziland, SWZ
+2.58 (C), 36.64 (F), 16, Apr, Poland, POL
+2.58 (C), 36.64 (F), 16, Apr, Laos, LAO
+2.80 (C), 37.05 (F), 16, Apr, Latvia, LVA
+2.84 (C), 37.11 (F), 16, Apr, Cambodia, KHM
+3.02 (C), 37.43 (F), 16, Apr, Thailand, THA
+3.19 (C), 37.75 (F), 16, Apr, Lithuania, LTU
+3.19 (C), 37.75 (F), 16, Apr, Uzbekistan, UZB
+3.56 (C), 38.41 (F), 16, Apr, Turkmenistan, TKM
+
+Task C1: Temperature Deltas in All Countries in May between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+2.30 (C), 36.14 (F), 16, May, Bosnia and Herzegovina, BIH
+2.33 (C), 36.19 (F), 16, May, Laos, LAO
+2.33 (C), 36.20 (F), 16, May, Thailand, THA
+2.47 (C), 36.44 (F), 16, May, Republic of Montenegro, MNE
+2.60 (C), 36.67 (F), 16, May, Greenland, GRL
+2.60 (C), 36.68 (F), 16, May, Canada, CAN
+2.60 (C), 36.69 (F), 16, May, Estonia, EST
+2.64 (C), 36.76 (F), 16, May, Finland, FIN
+2.76 (C), 36.97 (F), 16, May, Mongolia, MNG
+3.06 (C), 37.50 (F), 16, May, Australia, AUS
+
+Task C1: Temperature Deltas in All Countries in Jun between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+1.99 (C), 35.58 (F), 16, Jun, Latvia, LVA
+2.07 (C), 35.73 (F), 16, Jun, Lithuania, LTU
+2.10 (C), 35.78 (F), 16, Jun, Mongolia, MNG
+2.12 (C), 35.81 (F), 16, Jun, Belarus, BLR
+2.12 (C), 35.82 (F), 16, Jun, Iceland, ISL
+2.18 (C), 35.93 (F), 16, Jun, Egypt, EGY
+2.23 (C), 36.01 (F), 16, Jun, Libya, LBY
+3.59 (C), 38.46 (F), 16, Jun, Uruguay, URY
+3.87 (C), 38.96 (F), 16, Jun, Paraguay, PRY
+4.28 (C), 39.70 (F), 16, Jun, Timor Leste, TLS
+
+Task C1: Temperature Deltas in All Countries in Jul between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.08 (C), 37.54 (F), 16, Jul, Netherlands, NLD
+3.08 (C), 37.55 (F), 16, Jul, Slovenia, SVN
+3.21 (C), 37.77 (F), 16, Jul, Belgium, BEL
+3.24 (C), 37.83 (F), 16, Jul, Austria, AUT
+3.35 (C), 38.03 (F), 16, Jul, Czech Republic, CZE
+3.46 (C), 38.23 (F), 16, Jul, Germany, DEU
+3.51 (C), 38.32 (F), 16, Jul, Switzerland, CHE
+3.53 (C), 38.35 (F), 16, Jul, Luxembourg, LUX
+3.63 (C), 38.54 (F), 16, Jul, Liechtenstein, LIE
+3.68 (C), 38.63 (F), 16, Jul, Paraguay, PRY
+
+Task C1: Temperature Deltas in All Countries in Aug between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+1.50 (C), 34.70 (F), 16, Aug, Slovakia, SVK
+1.50 (C), 34.70 (F), 16, Aug, Argentina, ARG
+1.60 (C), 34.88 (F), 16, Aug, Mongolia, MNG
+1.64 (C), 34.95 (F), 16, Aug, Greenland, GRL
+1.84 (C), 35.31 (F), 16, Aug, Republic of Montenegro, MNE
+1.91 (C), 35.45 (F), 16, Aug, Namibia, NAM
+1.93 (C), 35.47 (F), 16, Aug, Croatia, HRV
+1.98 (C), 35.57 (F), 16, Aug, Hungary, HUN
+2.15 (C), 35.88 (F), 16, Aug, Republic of Serbia, SRB
+2.20 (C), 35.97 (F), 16, Aug, Bosnia and Herzegovina, BIH
+
+Task C1: Temperature Deltas in All Countries in Sep between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+2.80 (C), 37.03 (F), 16, Sep, Estonia, EST
+3.00 (C), 37.39 (F), 16, Sep, Germany, DEU
+3.08 (C), 37.54 (F), 16, Sep, Latvia, LVA
+3.12 (C), 37.62 (F), 16, Sep, Slovakia, SVK
+3.14 (C), 37.65 (F), 16, Sep, Denmark, DNK
+3.17 (C), 37.70 (F), 16, Sep, Belarus, BLR
+3.24 (C), 37.82 (F), 16, Sep, Lithuania, LTU
+3.37 (C), 38.07 (F), 16, Sep, Czech Republic, CZE
+3.47 (C), 38.25 (F), 16, Sep, Moldova, MDA
+3.70 (C), 38.66 (F), 16, Sep, Poland, POL
+
+Task C1: Temperature Deltas in All Countries in Oct between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.12 (C), 37.62 (F), 16, Oct, Sweden, SWE
+3.21 (C), 37.79 (F), 16, Oct, Finland, FIN
+3.30 (C), 37.94 (F), 16, Oct, Czech Republic, CZE
+3.55 (C), 38.40 (F), 16, Oct, Hungary, HUN
+3.70 (C), 38.66 (F), 16, Oct, Belarus, BLR
+3.82 (C), 38.87 (F), 16, Oct, Slovakia, SVK
+3.84 (C), 38.90 (F), 16, Oct, Poland, POL
+4.08 (C), 39.35 (F), 16, Oct, Latvia, LVA
+4.10 (C), 39.38 (F), 16, Oct, Estonia, EST
+4.18 (C), 39.53 (F), 16, Oct, Lithuania, LTU
+
+Task C1: Temperature Deltas in All Countries in Nov between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.55 (C), 38.39 (F), 16, Nov, Norway, NOR
+3.91 (C), 39.04 (F), 16, Nov, Lithuania, LTU
+3.96 (C), 39.13 (F), 16, Nov, Belarus, BLR
+3.98 (C), 39.16 (F), 16, Nov, United States, USA
+3.98 (C), 39.16 (F), 16, Nov, Romania, ROU
+4.05 (C), 39.30 (F), 16, Nov, Latvia, LVA
+4.19 (C), 39.54 (F), 16, Nov, Finland, FIN
+4.20 (C), 39.55 (F), 16, Nov, Moldova, MDA
+4.45 (C), 40.02 (F), 16, Nov, Sweden, SWE
+4.50 (C), 40.11 (F), 16, Nov, Estonia, EST
+
+Task C1: Temperature Deltas in All Countries in Dec between 2000 and 2016
+Temperature, Year, Month, Country, Country_Code
+3.24 (C), 37.83 (F), 16, Dec, Iceland, ISL
+3.36 (C), 38.05 (F), 16, Dec, Turkey, TUR
+3.43 (C), 38.18 (F), 16, Dec, Republic of Serbia, SRB
+3.53 (C), 38.35 (F), 16, Dec, Greece, GRC
+3.57 (C), 38.42 (F), 16, Dec, Macedonia, MKD
+3.58 (C), 38.44 (F), 16, Dec, Romania, ROU
+3.82 (C), 38.88 (F), 16, Dec, Azerbaijan, AZE
+4.20 (C), 39.55 (F), 16, Dec, Georgia, GEO
+4.22 (C), 39.60 (F), 16, Dec, Bulgaria, BGR
+4.33 (C), 39.79 (F), 16, Dec, Armenia, ARM
+
